@@ -11,7 +11,7 @@ Here's a link to a demonstration of the code:
 
 # Development Environment
 
-The code was written using Visual Studio, and the language used was Python. I like python, since it is very friendly to newer developers
+The code was written using Visual Studio, and the language used was Python. I like Python, since it is very friendly to newer developers.
 
 
 # Useful Websites
