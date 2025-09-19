@@ -11,7 +11,9 @@ Here's a link to a demonstration of the code:
 
 # Development Environment
 
-The code was written using Visual Studio, and the language used was Python. I like Python, since it is very friendly to newer developers.
+- Python 3.11 64-bit
+- Visual Studio Code
+- Git/GitHub
 
 
 # Useful Websites
